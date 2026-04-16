@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+*.onnx
+models/
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# DB
+*.sqlite3
+
+# MLflow
+mlruns/

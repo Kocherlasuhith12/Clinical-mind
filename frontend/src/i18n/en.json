@@ -1,0 +1,74 @@
+{
+  "app_name": "ClinicalMind",
+  "tagline": "AI Diagnostic Support",
+  "nav": {
+    "dashboard": "Dashboard",
+    "new_case": "New Case",
+    "history": "History",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "role": "Role",
+    "role_doctor": "Doctor",
+    "role_asha": "ASHA Worker",
+    "language": "Preferred Language",
+    "submit_login": "Sign In",
+    "submit_register": "Create Account",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?"
+  },
+  "case": {
+    "new_case": "New Patient Case",
+    "patient_age": "Patient Age",
+    "patient_sex": "Sex",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "symptoms": "Describe Symptoms",
+    "symptoms_placeholder": "Describe patient symptoms in detail...",
+    "upload_image": "Upload Image (skin, wound, X-ray)",
+    "record_voice": "Record Voice",
+    "stop_recording": "Stop Recording",
+    "submit": "Submit for Diagnosis",
+    "submitting": "Submitting...",
+    "offline_note": "Case saved offline. Will sync when connected.",
+    "processing": "AI is analyzing...",
+    "diagnosis_ready": "Diagnosis Ready"
+  },
+  "diagnosis": {
+    "primary": "Primary Diagnosis",
+    "confidence": "Confidence",
+    "differentials": "Differential Diagnoses",
+    "treatment": "Treatment Plan",
+    "precautions": "Precautions & Red Flags",
+    "refer": "When to Refer",
+    "evidence": "Evidence Sources",
+    "emergency": "EMERGENCY — Immediate Referral",
+    "call_108": "Call 108 Ambulance",
+    "export_pdf": "Export PDF Report",
+    "model": "Analyzed by"
+  },
+  "status": {
+    "pending": "Pending",
+    "processing": "Processing",
+    "done": "Done",
+    "urgent": "URGENT"
+  },
+  "offline": {
+    "offline_mode": "Offline Mode",
+    "cases_queued": "cases queued for sync",
+    "syncing": "Syncing...",
+    "synced": "All cases synced"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalid_email": "Invalid email",
+    "login_failed": "Invalid credentials",
+    "submit_failed": "Submission failed. Please try again."
+  }
+}

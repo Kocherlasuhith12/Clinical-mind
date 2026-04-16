@@ -1,0 +1,74 @@
+{
+  "app_name": "क्लिनिकलमाइंड",
+  "tagline": "AI निदान सहायता",
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "new_case": "नया केस",
+    "history": "इतिहास",
+    "logout": "लॉगआउट"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "पंजीकरण",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "name": "पूरा नाम",
+    "role": "भूमिका",
+    "role_doctor": "डॉक्टर",
+    "role_asha": "आशा कार्यकर्ता",
+    "language": "पसंदीदा भाषा",
+    "submit_login": "साइन इन करें",
+    "submit_register": "खाता बनाएं",
+    "no_account": "खाता नहीं है?",
+    "have_account": "पहले से खाता है?"
+  },
+  "case": {
+    "new_case": "नया मरीज केस",
+    "patient_age": "मरीज की उम्र",
+    "patient_sex": "लिंग",
+    "male": "पुरुष",
+    "female": "महिला",
+    "other": "अन्य",
+    "symptoms": "लक्षण बताएं",
+    "symptoms_placeholder": "मरीज के लक्षणों का विस्तार से वर्णन करें...",
+    "upload_image": "छवि अपलोड करें (त्वचा, घाव, X-ray)",
+    "record_voice": "आवाज रिकॉर्ड करें",
+    "stop_recording": "रिकॉर्डिंग बंद करें",
+    "submit": "निदान के लिए जमा करें",
+    "submitting": "जमा हो रहा है...",
+    "offline_note": "केस ऑफलाइन सहेजा गया। कनेक्ट होने पर सिंक होगा।",
+    "processing": "AI विश्लेषण कर रहा है...",
+    "diagnosis_ready": "निदान तैयार है"
+  },
+  "diagnosis": {
+    "primary": "प्राथमिक निदान",
+    "confidence": "विश्वास स्तर",
+    "differentials": "विभेदक निदान",
+    "treatment": "उपचार योजना",
+    "precautions": "सावधानियां और लाल झंडे",
+    "refer": "कब रेफर करें",
+    "evidence": "साक्ष्य स्रोत",
+    "emergency": "आपातकाल — तत्काल रेफरल",
+    "call_108": "108 एम्बुलेंस बुलाएं",
+    "export_pdf": "PDF रिपोर्ट निर्यात करें",
+    "model": "विश्लेषण किया"
+  },
+  "status": {
+    "pending": "लंबित",
+    "processing": "प्रक्रिया में",
+    "done": "पूर्ण",
+    "urgent": "अत्यावश्यक"
+  },
+  "offline": {
+    "offline_mode": "ऑफलाइन मोड",
+    "cases_queued": "सिंक के लिए केस कतार में",
+    "syncing": "सिंक हो रहा है...",
+    "synced": "सभी केस सिंक हो गए"
+  },
+  "errors": {
+    "required": "यह फ़ील्ड आवश्यक है",
+    "invalid_email": "अमान्य ईमेल",
+    "login_failed": "अमान्य क्रेडेंशियल",
+    "submit_failed": "सबमिशन विफल। कृपया पुनः प्रयास करें।"
+  }
+}
