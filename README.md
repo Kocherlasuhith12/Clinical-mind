@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/ClinicalMind-AI%20Diagnostic%20Co--Pilot-0ea5e9?style=for-the-badge&logo=heart&logoColor=white" alt="ClinicalMind" height="40"/>
 
 # ClinicalMind 🏥
-
+ 
 ### AI Diagnostic Support Co-Pilot for Rural Healthcare Workers in India 
 
 *Bridging the medical access gap for 600M+ people — offline-first, multilingual, and built for the field.*
