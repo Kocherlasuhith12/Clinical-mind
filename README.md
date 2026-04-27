@@ -4,7 +4,7 @@
 
 # ClinicalMind 🏥
  
-### AI Diagnostic Support Co-Pilot for Rural Healthcare Workers in India 
+### AI Diagnostic Support Co-Pilot for Rural Healthcare Workers in India  
 
 *Bridging the medical access gap for 600M+ people — offline-first, multilingual, and built for the field.*
  
